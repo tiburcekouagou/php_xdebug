@@ -1,0 +1,24 @@
+ {
+    "identifier": {
+      "id": "xdebug.php-debug",
+      "uuid": "044b4b31-2969-4af3-895d-855433b8b46d"
+    },
+    "version": "1.33.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/tiburce.kouagou/.vscode/extensions/xdebug.php-debug-1.33.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "xdebug.php-debug-1.33.0",
+    "metadata": {
+      "id": "044b4b31-2969-4af3-895d-855433b8b46d",
+      "publisherId": "0162ddc5-cb52-4b88-97e2-5272419cd6cd",
+      "publisherDisplayName": "Xdebug",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1691077957722,
+      "preRelease": false
+    }
+  },
